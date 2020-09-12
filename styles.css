@@ -5,7 +5,7 @@ body{
 }
 .start{
     position: relative;
-    margin-left: 30%;
+    margin-left: 10%;
 }
 a{
     color: black;
@@ -34,7 +34,7 @@ hr{
     text-align: center;
 }
 .resume{
-    width: 70%;
+    width: 65%;
     position: relative;
     margin-left: auto;
     margin-right: auto;
